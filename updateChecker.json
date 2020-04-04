@@ -15,6 +15,6 @@
     "v1.0.1": "\n    this does not work\n    rainbow module list\n    future compatibility shouldn't be an issue, but safewalk has not been changed to ensure it\n    this current release has some small features behind zeroeightysix, this will not be the case in the future. this is less buggy then their's, but if you don't mind it use their's.\n"
   },
   "promos": {
-    "1.12.2-latest": "client"
+    "1.12.2-latest": "2.1"
   }
 }
