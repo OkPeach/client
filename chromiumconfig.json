@@ -1,0 +1,1252 @@
+{
+  "binds": {
+    "modifiersEnabled": false
+  },
+  "modules": {
+    "AutoSpawner": {
+      "Bind": "None",
+      "Rotate": true,
+      "Entity Mode": "SNOW",
+      "Enabled": false,
+      "Use Mode": "SPAM",
+      "Delay": 20,
+      "Name": "AutoSpawner",
+      "Party": false,
+      "Place Range": 3.5,
+      "Nametag": true,
+      "Visible": "ON",
+      "Withers": false,
+      "Debug": false
+    },
+    "Fastbreak": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Fastbreak"
+    },
+    "NoSlowDown": {
+      "Soul Sand": true,
+      "Potions": true,
+      "Cobweb": true,
+      "Bind": "None",
+      "Shield": true,
+      "Bows": true,
+      "All Items": false,
+      "Visible": "ON",
+      "Enabled": true,
+      "Slime": true,
+      "Name": "NoSlowDown",
+      "Food": true
+    },
+    "ColourSign": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "ColourSign"
+    },
+    "Flight": {
+      "Speed": 10.0,
+      "Bind": "None",
+      "Mode": "VANILLA",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Flight"
+    },
+    "AutoTrap": {
+      "Self Trap": false,
+      "Bind": "None",
+      "Cage": "TRAP",
+      "Rotate": false,
+      "Enabled": false,
+      "Range": 5.5,
+      "Name": "AutoTrap",
+      "BlocksPerTick": 2,
+      "Visible": "ON",
+      "TickDelay": 2,
+      "NoGlitchBlocks": true,
+      "Active In Freecam": true,
+      "Debug": false
+    },
+    "Pathfind": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Pathfind"
+    },
+    "AutoJump": {
+      "Bind": "None",
+      "Tick Delay": 10,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoJump"
+    },
+    "CustomChat": {
+      "Bind": "None",
+      "Message": "NAME",
+      "Visible": "ON",
+      "Commands": false,
+      "Enabled": true,
+      "Custom Text": "unchanged",
+      "Separator": "SEPARATOR",
+      "Name": "CustomChat"
+    },
+    "TimerSpeed": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Minimum Speed": 4.0,
+      "Attempt Speed": 4.2,
+      "Fast Speed": 5.0,
+      "Name": "TimerSpeed",
+      "Max Speed": 7.0
+    },
+    "FancyChat": {
+      "Bind": "None",
+      "Random Case": true,
+      "Mode": "MOCKING",
+      "Visible": "OFF",
+      "Commands": false,
+      "Enabled": false,
+      "Name": "FancyChat"
+    },
+    "InventoryViewer": {
+      "Use ResourcePack": false,
+      "Bind": "None",
+      "Transparency": 32,
+      "Icon Size": "MEDIUM",
+      "Blue": 255,
+      "Show Icon": true,
+      "Enabled": true,
+      "Name": "InventoryViewer",
+      "Colored Background": true,
+      "Red": 155,
+      "Automatic Docking": true,
+      "Visible": "ON",
+      "Green": 144
+    },
+    "AntiSpam": {
+      "I just": {
+        "thanks to": true
+      },
+      "Bind": "None",
+      "Trade Chat": true,
+      "Greeters": true,
+      "Special Begin": true,
+      "Green Text": false,
+      "Page": "ONE",
+      "Announcers": true,
+      "Name": "AntiSpam",
+      "Duplicates": true,
+      "Duplicates Timeout": 30,
+      "Owns Me And All": true,
+      "Insulters": true,
+      "Visible": "ON",
+      "Web Links": false,
+      "Ips Aggressive": false,
+      "11+ long words": true,
+      "Enabled": true,
+      "Server Ips": true,
+      "Discord Links": true,
+      "Number Begin": false,
+      "Spammers": true,
+      "Show Blocked": "LOG_FILE",
+      "Filter Own": false,
+      "Number Ending": true,
+      "Hypixel Shills": true,
+      "Special Ending": true
+    },
+    "ArmourHide": {
+      "Bind": "None",
+      "Armour Stands": true,
+      "Helmet": false,
+      "Leggings": false,
+      "Mobs": true,
+      "Boots": false,
+      "Visible": "ON",
+      "Enabled": true,
+      "Chestplate": false,
+      "Name": "ArmourHide",
+      "Players": false
+    },
+    "Criticals": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Criticals"
+    },
+    "SafeWalk": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "SafeWalk"
+    },
+    "AntiForceLook": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AntiForceLook"
+    },
+    "ShulkerPreview": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "ShulkerPreview"
+    },
+    "FormatChat": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "FormatChat"
+    },
+    "FullBright": {
+      "Bind": "None",
+      "Mode": "LINEAR",
+      "Visible": "ON",
+      "Transition": true,
+      "Enabled": false,
+      "Seconds": 5.0,
+      "Name": "FullBright"
+    },
+    "BoxESP": {
+      "Red": 155,
+      "Bind": "None",
+      "Experience": true,
+      "Blue": 255,
+      "Visible": "ON",
+      "Alpha": 100,
+      "Enabled": false,
+      "Throwable": true,
+      "Items": false,
+      "Arrows": true,
+      "Green": 144,
+      "Name": "BoxESP"
+    },
+    "EntitySpeed": {
+      "Speed": 1.0,
+      "Bind": "None",
+      "Boat opacity": 0.5,
+      "AntiStuck": true,
+      "Flight": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Wobble": true,
+      "Name": "EntitySpeed"
+    },
+    "GUI Colour": {
+      "Red": 13,
+      "Bind": "None",
+      "Blue": 13,
+      "Visible": "ON",
+      "Alpha": 117,
+      "Enabled": false,
+      "Green": 13,
+      "Name": "GUI Colour"
+    },
+    "AutoReconnect": {
+      "Bind": "None",
+      "Visible": "OFF",
+      "Enabled": false,
+      "Seconds": 5,
+      "Name": "AutoReconnect"
+    },
+    "NoBreakAnimation": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "NoBreakAnimation"
+    },
+    "AntiWeather": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "AntiWeather"
+    },
+    "AutoArmour": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoArmour"
+    },
+    "BreakingWarning": {
+      "Bind": "None",
+      "Min Range": 1.5,
+      "Visible": "ON",
+      "Enabled": false,
+      "Obsidian Only": true,
+      "Pickaxe Only": true,
+      "Name": "BreakingWarning"
+    },
+    "AutoFeetPlace": {
+      "BlocksPerTick": 4,
+      "Bind": "None",
+      "Rotate": true,
+      "InfoMessage": false,
+      "Mode": "FULL",
+      "Visible": "ON",
+      "Enabled": false,
+      "Triggerable": true,
+      "TickDelay": 0,
+      "DisableNoObby": true,
+      "TimeoutTicks": 40,
+      "Name": "AutoFeetPlace"
+    },
+    "ConsoleSpam": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "ConsoleSpam"
+    },
+    "Sprint": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "Sprint"
+    },
+    "Capes": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Override Other Capes": true,
+      "Name": "Capes"
+    },
+    "BossStack": {
+      "Bind": "None",
+      "Mode": "STACK",
+      "Visible": "ON",
+      "Enabled": true,
+      "Scale": 1.0,
+      "Name": "BossStack"
+    },
+    "AutoLog": {
+      "Bind": "None",
+      "Health": 6,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoLog"
+    },
+    "OffhandGap": {
+      "Bind": "None",
+      "Eat While Attacking": false,
+      "Prefer Placing Blocks": false,
+      "Crystal Check": false,
+      "Disable Health": 4.0,
+      "Visible": "ON",
+      "Enabled": false,
+      "Sword or Axe Only": true,
+      "Name": "OffhandGap"
+    },
+    "Scaffold": {
+      "Bind": "None",
+      "Place Blocks": true,
+      "Ticks": 2,
+      "Mode": "LEGIT",
+      "Visible": "ON",
+      "Delay Range": 6,
+      "Enabled": false,
+      "Random Delay": false,
+      "Name": "Scaffold"
+    },
+    "AutoFish": {
+      "Bind": "None",
+      "Defaults": false,
+      "Throw Delay": 450,
+      "Visible": "ON",
+      "Catch Delay": 300,
+      "Enabled": false,
+      "Recast": false,
+      "Variation": 50,
+      "Name": "AutoFish"
+    },
+    "Jesus": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Jesus"
+    },
+    "AutoEZ": {
+      "Bind": "None",
+      "Mode": "ONTOP",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoEZ"
+    },
+    "YawLock": {
+      "Auto": true,
+      "Bind": "None",
+      "Slice": 8,
+      "Visible": "ON",
+      "Enabled": false,
+      "Yaw": 180.0,
+      "Name": "YawLock"
+    },
+    "ChatTimestamp": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "First Colour": "BLUE",
+      "Second Colour": "GRAY",
+      "Time Format": "HHMM",
+      "Time Unit": "H24",
+      "Show AMPM": false,
+      "Name": "ChatTimestamp"
+    },
+    "AntiFog": {
+      "Bind": "None",
+      "Mode": "NOFOG",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AntiFog"
+    },
+    "CrystalAura": {
+      "Hit Delay": 5.0,
+      "Bind": "None",
+      "Page": "ONE",
+      "Place Behavior": "TRADITIONAL",
+      "Name": "CrystalAura",
+      "Prioritize Manual": false,
+      "Visible": "ON",
+      "Minimum Damage": 0.0,
+      "Status Messages": false,
+      "No Tool Explode": true,
+      "Players": true,
+      "Tracer Transparency": 200,
+      "Blue": 255,
+      "Tracer": true,
+      "Block Transparency": 44,
+      "Enabled": false,
+      "Check Absorption": true,
+      "Auto Switch": true,
+      "Range": 4.0,
+      "Anti Weakness": false,
+      "Red": 155,
+      "Explode": false,
+      "Defaults": false,
+      "Animals": false,
+      "Custom Colours": true,
+      "Explode Behavior": "ALWAYS",
+      "Mobs": false,
+      "Sneak Surround": true,
+      "Place": false,
+      "Green": 144,
+      "Hit Attempts": -1
+    },
+    "ESP": {
+      "Bind": "None",
+      "Animals": false,
+      "Mode": "GLOW",
+      "Mobs": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Invisible": false,
+      "Name": "ESP",
+      "Players": true
+    },
+    "Surround": {
+      "Bind": "None",
+      "Debug Messages": "IMPORTANT",
+      "Auto Center": "TP",
+      "Spoof Rotations": true,
+      "Spoof Hotbar": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Blocks per Tick": 4.0,
+      "Place Animation": false,
+      "Disable on place": true,
+      "Name": "Surround"
+    },
+    "VisualRange": {
+      "Bind": "None",
+      "Leaving": false,
+      "UwU Aura": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "VisualRange"
+    },
+    "AutoReplenish": {
+      "Bind": "None",
+      "Refill at": 32,
+      "Visible": "ON",
+      "Enabled": false,
+      "TickDelay": 2,
+      "Name": "AutoReplenish"
+    },
+    "FastUse": {
+      "All": false,
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Bow": true,
+      "End Crystals": true,
+      "Delay": 0,
+      "Fireworks": false,
+      "Name": "FastUse",
+      "Exp Bottles": true
+    },
+    "MidClickFriends": {
+      "Bind": "None",
+      "Visible": "OFF",
+      "Enabled": false,
+      "Name": "MidClickFriends"
+    },
+    "CommandConfig": {
+      "Alias Info": true,
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "PrefixChat": true,
+      "Name": "CommandConfig"
+    },
+    "DiscordNotifs": {
+      "Bind": "None",
+      "All Messages": false,
+      "Timeout": false,
+      "Queue Position": true,
+      "Received DMs": true,
+      "Enabled": false,
+      "Timestamp": true,
+      "Important Pings": true,
+      "Send DMs": true,
+      "URL": "https://discordapp.com/api/webhooks/695953495391731823/y0ZDE0M9zaSsfSKWOt_y9R7CeZp5Div9IrkeXMucXioR32hFLDW4tcaOZWHlmiSIsSc6",
+      "Avatar": "https://chromium.wtf/peach150.gif",
+      "Name": "DiscordNotifs",
+      "Restart Msgs": true,
+      "Ping ID": "695952939172233306",
+      "Visible": "ON",
+      "Seconds": 10,
+      "Disconnect Msgs": true
+    },
+    "FixGui": {
+      "Bind": "None",
+      "Visible": "OFF",
+      "Enabled": false,
+      "Name": "FixGui"
+    },
+    "FakeGamemode": {
+      "Bind": "None",
+      "AntiKick 2b2t": true,
+      "Mode": "CREATIVE",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "FakeGamemode"
+    },
+    "AntiBookKick": {
+      "Bind": "None",
+      "Visible": "OFF",
+      "Enabled": false,
+      "Name": "AntiBookKick"
+    },
+    "InfoOverlay": {
+      "Speed Unit": "KMH",
+      "Bind": "None",
+      "FPS": true,
+      "Page": "THREE",
+      "Time": true,
+      "Name": "InfoOverlay",
+      "Version": true,
+      "TPS": true,
+      "Visible": "ON",
+      "Time Show AMPM": true,
+      "RAM Used": false,
+      "Time Format": "HHMMSS",
+      "Second Colour": "BLUE",
+      "Totems": true,
+      "Speed": true,
+      "EXP Bottles": false,
+      "Item Damage": false,
+      "Timer Speed": false,
+      "Enabled": true,
+      "God Apples": false,
+      "Time Unit": "H24",
+      "Username": true,
+      "Ping": false,
+      "First Colour": "WHITE",
+      "End Crystals": false
+    },
+    "SkinFlicker": {
+      "Bind": "None",
+      "Slowness": 2,
+      "Mode": "HORIZONTAL",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "SkinFlicker"
+    },
+    "AutoExp": {
+      "Auto Throw": true,
+      "Bind": "None",
+      "Auto Disable": true,
+      "Visible": "ON",
+      "Enabled": false,
+      "Auto Switch": true,
+      "Name": "AutoExp"
+    },
+    "StorageESP": {
+      "Chest": true,
+      "Bind": "None",
+      "Dispenser": true,
+      "Visible": "ON",
+      "Minecart": true,
+      "Enabled": false,
+      "Hopper": true,
+      "Shulker": true,
+      "Item Frame": true,
+      "Furnace": true,
+      "Ender Chest": true,
+      "Name": "StorageESP"
+    },
+    "NoHurtCam": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "NoHurtCam"
+    },
+    "FakeVanillaClient": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "FakeVanillaClient"
+    },
+    "ExtraTab": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "ExtraTab",
+      "Players": 200
+    },
+    "BookCrash": {
+      "Pages": 50,
+      "Bind": "None",
+      "Uses": 5,
+      "Fill Mode": "RANDOM",
+      "Mode": "RAION",
+      "Visible": "ON",
+      "Enabled": false,
+      "Delay": 0,
+      "Name": "BookCrash",
+      "AutoToggle": true
+    },
+    "DiscordSettings": {
+      "Bind": "None",
+      "Line 2 Left": "SERVER_IP",
+      "Line 2 Right": "HEALTH",
+      "Visible": "ON",
+      "Enabled": true,
+      "Coords Confirm": false,
+      "Line 1 Left": "VERSION",
+      "Line 1 Right": "USERNAME",
+      "Name": "DiscordSettings"
+    },
+    "LiquidInteract": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "LiquidInteract"
+    },
+    "Teleport": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Teleport"
+    },
+    "ElytraFlight": {
+      "Easy Takeoff": true,
+      "Bind": "None",
+      "Takeoff Mode": "PACKET",
+      "Fall Speed": -0.003,
+      "Mode": "HIGHWAY",
+      "Down Speed B": 0.04,
+      "Enabled": false,
+      "Speed H": 1.8,
+      "Speed H O": 1.8,
+      "Name": "ElytraFlight",
+      "Defaults": false,
+      "Fall Speed H": 5.0000002E-5,
+      "Visible": "ON",
+      "Over Max Speed": false,
+      "Up Speed B": 0.08
+    },
+    "clickGUI": {
+      "Bind": "Y",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "clickGUI"
+    },
+    "AutoQMain": {
+      "Show Warnings": true,
+      "Bind": "None",
+      "Wait time": 7.1,
+      "Visible": "OFF",
+      "Dimension Warning": true,
+      "Enabled": false,
+      "Connection Warning": true,
+      "Name": "AutoQMain"
+    },
+    "XRay": {
+      "Invert": false,
+      "Bind": "X",
+      "Visible": "ON",
+      "Enabled": false,
+      "HiddenBlocks": "minecraft:grass,minecraft:dirt,minecraft:netherrack,minecraft:gravel,minecraft:sand,minecraft:stone",
+      "Outlines": true,
+      "Name": "XRay"
+    },
+    "Aura": {
+      "Auto Tick Delay": true,
+      "Bind": "None",
+      "Tick Delay": 2.0,
+      "Mode": "TICK",
+      "Autoswitch": "ALL",
+      "Enabled": false,
+      "Hit Range": 5.5,
+      "Name": "Aura",
+      "Ignore Walls": true,
+      "Info Message": true,
+      "Animals": false,
+      "Mobs": false,
+      "Visible": "ON",
+      "Players": true,
+      "Tool": "SWORD"
+    },
+    "AutoTool": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoTool"
+    },
+    "TotemPopCounter": {
+      "Bind": "None",
+      "Reset Self Death": true,
+      "Count Friends": true,
+      "Count Self": false,
+      "Visible": "ON",
+      "Reset On Death": true,
+      "Announce": "CLIENT",
+      "Enabled": false,
+      "Thanks to": false,
+      "Color Number": "LIGHT_PURPLE",
+      "Name": "TotemPopCounter",
+      "Color Name": "DARK_PURPLE"
+    },
+    "CleanGUI": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Chat": true,
+      "Enabled": true,
+      "Inventory": true,
+      "Name": "CleanGUI"
+    },
+    "BeaconSelector": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "BeaconSelector"
+    },
+    "AutoTPA": {
+      "Response": "DENY",
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoTPA"
+    },
+    "AutoWalk": {
+      "Bind": "None",
+      "Mode": "FORWARD",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoWalk"
+    },
+    "NoEntityTrace": {
+      "Bind": "None",
+      "Mode": "DYNAMIC",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "NoEntityTrace"
+    },
+    "EntityTools": {
+      "Bind": "None",
+      "Mode": "DELETE",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "EntityTools"
+    },
+    "NoFall": {
+      "Pickup Delay": 300,
+      "Bind": "None",
+      "Pickup": true,
+      "Mode": "PACKET",
+      "Visible": "ON",
+      "Enabled": false,
+      "Distance": 3,
+      "Name": "NoFall"
+    },
+    "XCarry": {
+      "Bind": "None",
+      "Visible": "OFF",
+      "Enabled": false,
+      "Name": "XCarry"
+    },
+    "ServerNotRespond": {
+      "Bind": "None",
+      "Timeout": 1.0,
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "ServerNotRespond"
+    },
+    "AutoRespawn": {
+      "Anti Glitch Screen": true,
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Respawn": true,
+      "DeathCoords": true,
+      "Name": "AutoRespawn"
+    },
+    "ChunkFinder": {
+      "Close File": false,
+      "Bind": "None",
+      "Relative": true,
+      "Y Offset": 0,
+      "In Region": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Save Option": "EXTRA_FOLDER",
+      "Save Normal Coords": false,
+      "Save New Chunks": false,
+      "Name": "ChunkFinder"
+    },
+    "EndTeleport": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Confirm": true,
+      "Name": "EndTeleport"
+    },
+    "EyeFinder": {
+      "Bind": "None",
+      "Animals": false,
+      "Mobs": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "EyeFinder",
+      "Players": true
+    },
+    "TpsSync": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "TpsSync"
+    },
+    "PitchLock": {
+      "Auto": true,
+      "Bind": "None",
+      "Slice": 8,
+      "Visible": "ON",
+      "Pitch": 180.0,
+      "Enabled": false,
+      "Name": "PitchLock"
+    },
+    "AntiAFK": {
+      "Bind": "None",
+      "Swing": true,
+      "Visible": "ON",
+      "Enabled": false,
+      "Turn": true,
+      "Name": "AntiAFK"
+    },
+    "AutoEat": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AutoEat",
+      "Eat level": 15
+    },
+    "Tracers": {
+      "Bind": "None",
+      "Blue": 255,
+      "Friends": true,
+      "Enabled": false,
+      "Range": 200.0,
+      "Name": "Tracers",
+      "Red": 155,
+      "Animals": false,
+      "Custom Colours": true,
+      "Mobs": false,
+      "Visible": "ON",
+      "Invisible": false,
+      "Opacity": 1.0,
+      "Green": 144,
+      "Players": true
+    },
+    "NoSoundLag": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "NoSoundLag"
+    },
+    "AntiChainPop": {
+      "Bind": "None",
+      "Mode": "PACKET",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AntiChainPop"
+    },
+    "Chams": {
+      "Bind": "None",
+      "Animals": false,
+      "Mobs": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Chams",
+      "Players": true
+    },
+    "IceSpeed": {
+      "Bind": "None",
+      "Slipperiness": 0.4,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "IceSpeed"
+    },
+    "ChatEncryption": {
+      "Bind": "None",
+      "Delimiter": true,
+      "Mode": "SHUFFLE",
+      "Visible": "OFF",
+      "Enabled": false,
+      "Key": 6,
+      "Name": "ChatEncryption"
+    },
+    "NoSwing": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "NoSwing"
+    },
+    "NoRender": {
+      "Mob": false,
+      "Bind": "None",
+      "Sand": false,
+      "Paintings": false,
+      "GEntity": false,
+      "Fire": true,
+      "Visible": "ON",
+      "XP": false,
+      "Enabled": false,
+      "Object": false,
+      "Explosions": true,
+      "Name": "NoRender"
+    },
+    "HoleESP": {
+      "Bind": "None",
+      "Transparency": 32,
+      "Blue (Obby)": 255,
+      "Green (Bedrock)": 144,
+      "Blue (Bedrock)": 255,
+      "Render": "BOTH",
+      "Enabled": false,
+      "Red (Obby)": 208,
+      "Name": "HoleESP",
+      "Render Mode": "BLOCK",
+      "Green (Obby)": 144,
+      "Visible": "ON",
+      "Red (Bedrock)": 144,
+      "Render Distance": 8.0
+    },
+    "TabFriends": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "TabFriends"
+    },
+    "AntiHunger": {
+      "Bind": "None",
+      "Cancel Movement State": true,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AntiHunger"
+    },
+    "PortalChat": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "PortalChat"
+    },
+    "Nametags": {
+      "Bind": "None",
+      "Animals": false,
+      "Health": true,
+      "Armor": true,
+      "Mobs": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Scale": 2.5,
+      "Range": 200.0,
+      "Name": "Nametags",
+      "Players": true
+    },
+    "Zoom": {
+      "Cinematic Camera": true,
+      "Bind": "None",
+      "Sensitivity": true,
+      "Visible": "OFF",
+      "Enabled": false,
+      "FOV": 30,
+      "Name": "Zoom"
+    },
+    "BlockData": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "BlockData"
+    },
+    "AntiDeathScreen": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "AntiDeathScreen"
+    },
+    "AutoReply": {
+      "Bind": "None",
+      "Custom Reply Command": "unchanged",
+      "Custom Listener Name": "unchanged",
+      "Visible": "ON",
+      "Custom Message": false,
+      "Enabled": false,
+      "Custom Listener": false,
+      "Custom Text": "Use \u00267;autoreply\u0026r to modify this",
+      "Name": "AutoReply"
+    },
+    "HoleFiller": {
+      "Bind": "None",
+      "Render Filled Blocks": false,
+      "Visible": "ON",
+      "Enabled": false,
+      "Only Fill in Hole": true,
+      "Range": 4.0,
+      "Name": "HoleFiller",
+      "Ignore Walls": false
+    },
+    "AutoTotem": {
+      "Custom Item Health": 14.0,
+      "Item": "GAPPLE",
+      "Bind": "None",
+      "Mode": "REPLACE_OFFHAND",
+      "Visible": "ON",
+      "Enabled": false,
+      "Custom Item": false,
+      "Name": "AutoTotem"
+    },
+    "Blink": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Blink"
+    },
+    "AntiFriendHit": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "AntiFriendHit"
+    },
+    "Trajectories": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Trajectories"
+    },
+    "RunConfig": {
+      "Bind": "None",
+      "FixGui": true,
+      "Visible": "OFF",
+      "Enabled": false,
+      "DiscordSettings": true,
+      "CustomChat": true,
+      "Capes": true,
+      "TabFriends": true,
+      "Name": "RunConfig"
+    },
+    "Velocity": {
+      "Vertical": 0.0,
+      "Bind": "None",
+      "Horizontal": 0.0,
+      "NoPush": true,
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Velocity"
+    },
+    "CameraClip": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": true,
+      "Name": "CameraClip"
+    },
+    "Timer": {
+      "Bind": "None",
+      "Tick N": 2.0,
+      "Visible": "ON",
+      "Slow Mode": false,
+      "Enabled": false,
+      "Tick S": 8.0,
+      "Name": "Timer"
+    },
+    "Freecam": {
+      "Speed": 5,
+      "Packet Cancel": false,
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "Freecam"
+    },
+    "ActiveModules": {
+      "Bind": "None",
+      "Mode": "RAINBOW",
+      "Brightness C": 255,
+      "Enabled": true,
+      "Saturation C": 156,
+      "Name": "ActiveModules",
+      "ForgeHax": false,
+      "Brightness R": 255,
+      "Hue C": 178,
+      "Visible": "ON",
+      "Saturation R": 117,
+      "Speed R": 50,
+      "Alternate": true
+    },
+    "ArmourHUD": {
+      "Bind": "None",
+      "Visible": "OFF",
+      "Enabled": false,
+      "Damage": false,
+      "Name": "ArmourHUD"
+    },
+    "PortalGodMode": {
+      "Bind": "None",
+      "Visible": "ON",
+      "Enabled": false,
+      "Name": "PortalGodMode"
+    }
+  },
+  "friends": {
+    "Friends": ""
+  },
+  "commandPrefix": ";",
+  "gui": {
+    "Combat": {
+      "x": 642,
+      "y": 135,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Utils": {
+      "x": 642,
+      "y": 10,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Client": {
+      "x": 503,
+      "y": 244,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Player": {
+      "x": 14,
+      "y": 296,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Experimental": {
+      "x": 648,
+      "y": 71,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Render": {
+      "x": 279,
+      "y": 10,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Chat": {
+      "x": 406,
+      "y": 10,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Misc": {
+      "x": 146,
+      "y": 10,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Movement": {
+      "x": 533,
+      "y": 10,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Active modules": {
+      "x": 847,
+      "y": 312,
+      "docking": 4,
+      "minimized": false,
+      "pinned": true
+    },
+    "Info": {
+      "x": 0,
+      "y": 0,
+      "docking": 0,
+      "minimized": false,
+      "pinned": true
+    },
+    "Inventory Viewer": {
+      "x": 398,
+      "y": 421,
+      "docking": 12,
+      "minimized": false,
+      "pinned": false
+    },
+    "Friends": {
+      "x": 14,
+      "y": 225,
+      "docking": 9,
+      "minimized": true,
+      "pinned": false
+    },
+    "Text Radar": {
+      "x": 186,
+      "y": 244,
+      "docking": 9,
+      "minimized": true,
+      "pinned": false
+    },
+    "Entities": {
+      "x": 203,
+      "y": 304,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Coordinates": {
+      "x": 309,
+      "y": 244,
+      "docking": 9,
+      "minimized": false,
+      "pinned": false
+    },
+    "Radar": {
+      "x": 857,
+      "y": 0,
+      "docking": 2,
+      "minimized": false,
+      "pinned": true
+    }
+  }
+}
